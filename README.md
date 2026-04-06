@@ -8,7 +8,7 @@ API REST desenvolvida com Java e Spring Boot que consome a [Rick and Morty API](
 
 ## 🚀 Deploy
 
-👉 **[API em produção](https://rickandmorty-api-production.up.railway.app/api/personagens)**
+👉 **[API em produção](http://163.176.187.83:8080/api/personagens)**
 
 📄 **[Documentação Swagger](https://rickandmorty-api-production.up.railway.app/swagger-ui/index.html)**
 
